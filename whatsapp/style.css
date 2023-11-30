@@ -1,0 +1,60 @@
+ body {
+   min-height:100vh;
+   background: linear-gradient(180deg, rgba(0,151,136,1) 0%, rgba(0,151,136,1) 20%, rgba(255,255,255,1) 20%);
+   margin:0;
+   padding:0;
+   background-color: #eeeeee;
+}
+
+
+.blocprinc {
+   display:flex;
+   background-color:#eeeeee;
+   margin-left:auto;
+   margin-right:auto;
+   width:85%;
+   position: relative;
+}
+
+.phop1 {
+   border-radius:50px;
+   width:60px;
+   height:60px;
+}
+
+.cgauche {
+   height:70px;
+   display:flex;
+   justify-content:space-between;
+   align-items:center;
+}
+
+.cdroite {
+   height:70px;
+   display:flex;
+   justify-content:space-between;
+   align-items:center;
+}
+
+.ptd {
+   align-items:center;
+}
+
+.cloche {
+   border-radius:50px;
+   width:60px;
+   height:60px;
+}
+
+.bcloche {
+   background-color:#a1e1ff
+   height:70px;
+}
+
+
+.cdroite2 {
+   height:70px;
+   display:flex;
+   justify-content:space-between;
+   align-items:center;
+}
